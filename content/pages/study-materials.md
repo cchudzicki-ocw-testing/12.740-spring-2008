@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study materials about the Toggweiler-Sarmiento
+  3-Box Model.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

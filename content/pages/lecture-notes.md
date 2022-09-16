@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes and slide shows.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -191,7 +193,7 @@ The {{< sup "14" >}}C story
 
 ({{% resource_link 647e0b52-25b6-342b-1e3f-b8dd7e417f41 "PDF 1" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a2363bad-ee08-c771-ae9e-fe57df0c2d41 "PDF 2 - 1.5 MB" %}})
+({{% resource_link a2363bad-ee08-c771-ae9e-fe57df0c2d41 "PDF 2 - 1.5 MB" %}})
 
 ({{% resource_link 7f42a97f-deab-1a69-3be9-05653c2c620a "PDF 3 - 2.0 MB" %}})
 
